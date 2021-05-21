@@ -18,7 +18,10 @@
 <br/>
 <br/>
 
-<img align="left" alt="YPrahasith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YPrahasith&count_private=true&show_icons=true&hide=prs&theme=tokyonight" />
+<img align="left" alt="YPrahasith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YPrahasith&count_private=true&show_icons=true&hide=prs&theme=dark" />
+
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YPrahasith&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
