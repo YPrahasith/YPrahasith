@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I am Y Prahasith 👋
 
-<!--
-**YPrahasith/YPrahasith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying B.tech CSE at JSSSTU, Mysore.
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 Goals : Contributing more to open source projects.
+- ⚡ Fun fact: I love eating food, I'm a big foodie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me on
+[<img align="left" alt="YPrahasith|website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YPrahasith|Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="YPrahasith|Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="YPrahasith|Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YPrahasith|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+[website]: https://nameless-reaches-86226.herokuapp.com/
+[twitter]: https://twitter.com/Y_PRAHASITH
+[youtube]: https://www.youtube.com/channel/UCxbVu-AqjPyUXffV1S_1sQg
+[instagram]: https://www.instagram.com/y_prahasith/
+[linkedin]: https://www.linkedin.com/in/y-prahasith-12b829173/
