@@ -16,6 +16,9 @@
 
 <br/>
 
+<img align="left" alt="YPrahasith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YPrahasith&show_icons=true&hide_border=true" />
+
+
 [website]: https://nameless-reaches-86226.herokuapp.com/
 [twitter]: https://twitter.com/Y_PRAHASITH
 [youtube]: https://www.youtube.com/channel/UCxbVu-AqjPyUXffV1S_1sQg
