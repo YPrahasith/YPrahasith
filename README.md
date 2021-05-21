@@ -15,8 +15,10 @@
 [<img align="left" alt="YPrahasith|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+<br/>
+<br/>
 
-<img align="left" alt="YPrahasith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YPrahasith&count_private=true&show_icons=true&hide=pr&theme=onedark" />
+<img align="left" alt="YPrahasith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YPrahasith&count_private=true&show_icons=true&hide=prs&theme=tokyonight" />
 
 
 [website]: https://nameless-reaches-86226.herokuapp.com/
