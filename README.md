@@ -16,7 +16,7 @@
 
 <br/>
 
-<img align="left" alt="YPrahasith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YPrahasith&show_icons=true&hide_border=true" />
+<img align="left" alt="YPrahasith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YPrahasith&count_private=true&show_icons=true&hide=pr&theme=onedark" />
 
 
 [website]: https://nameless-reaches-86226.herokuapp.com/
