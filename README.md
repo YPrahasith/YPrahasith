@@ -20,9 +20,6 @@
 
 <img align="left" alt="YPrahasith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YPrahasith&count_private=true&show_icons=true&hide=prs&theme=tokyonight" />
 
-<br/>
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YPrahasith)](https://github.com/anuraghazra/github-readme-stats)
 
 
